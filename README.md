@@ -1,5 +1,11 @@
 # japanese-wra-form26
-A script to parse the National Archives' data file containing detailed data about the incarcerated people held in "internment camps" in the US between 1942 and 1946
+A script to parse the National Archives' data file containing detailed data about the incarcerated people held in "internment camps" in the US between 1942 and 1946.
+
+## RG210.JAPAN.WRA26.txt
+A fixed-width data file, each row is 80 charcters long. 109,378 rows. Removed the first 10 rows as they were full of junk data from the data scanning process, per National Archives note. 
+
+## WRA_Form_26_Evacuee_Summary_Data_locator_index.ipynb
+A Jupyter notebook for splitting the fixed-width file into columns, and outputting the file as a CSV.  
 
 ## processed.csv
 This is the outoput of the Python script. 
