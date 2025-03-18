@@ -19,7 +19,7 @@ This is the outoput of the Python script.
 <tr><td><stong>middle_initial</strong></td><td>Middle initial</td></tr>
 <tr><td><stong>relocation_center</strong></td><td>Relocation center</td></tr>
 <tr><td><stong>assembly_center</strong></td><td>Assembly center</td></tr>
-<tr><td><stong>previous_address</strong></td>Previous address code<td></td></tr>
+<tr><td><stong>previous_address</strong></td><td>Previous address code</td></tr>
 <tr><td><stong>country_of_birth</strong></td><td>Country of birth code</td></tr>
 <tr><td><stong>fathers_occupation_in_us</strong></td><td>Father's occupation in US code</td></tr>
 <tr><td><stong>fathers_occupation_abroad</strong></td><td>Father's occupation abroad code</td></tr>
@@ -48,6 +48,6 @@ This is the outoput of the Python script.
 <tr><td><stong>language_lookup</strong></td><td>Language (matched to code)</td></tr>
 <tr><td><stong>sex_marital_status_lookup</strong></td><td>Marital status (matched to code)</td></tr>
 <tr><td><stong>file_number_base</strong></td><td>File number base (Families shared a 5 digit file number, each family member was assigned a letter at the end of the file number. Ex: 12345A, 12345B...</td></tr>
-<tr><td><stong>previous_address_state_county</strong></td><td>Previous address state and county</td><td>Not implemented yet<td></tr>
+<tr><td><stong>previous_address_state_county</strong></td><td>Previous address state and county (Not implemented yet)</td></tr>
  </tbody>
 </table>
